@@ -1,0 +1,60 @@
+
+
+::-webkit-scrollbar {
+    display: none;
+}
+
+* {
+    box-sizing: border-box;
+}
+.header-title {
+    margin-top: 90px;
+    margin-bottom: 5px;
+
+}
+
+.title-italic {
+    font-size: 20px;
+    color: grey;
+}
+
+.item-link {
+    text-decoration: none;
+    font-size: 1rem;
+    color: #333;
+    font-weight: 500;
+}
+
+
+
+.lihaver li{
+    list-style: none;
+}
+
+
+.lihaver li:hover{
+    background: #DCDFE3 !important;
+}
+
+.lihaver li a:hover{
+    text-decoration: none;
+    color: #2C70D9;
+}
+
+.footer-title {
+    color: #fff;
+    font-size: 1rem;
+    margin-top: 30px;
+    margin-bottom: 0;
+
+}
+
+.footer-logo {
+    font-size: 2rem;
+}
+
+.footer-logo span {
+    color: lightseagreen;
+}
+
+
