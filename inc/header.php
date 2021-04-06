@@ -13,9 +13,10 @@
 <body>
 
 <!----- Start of Header -------->
-    <header class="p-3 mb-5 border-bottom fixed-top bg-dark">
+
+   <header class="p-3 mb-5 border-bottom fixed-top bg-dark">
         <div class="container-fluid">
-            <div class="d-flex flex-wrap align-items-center justify-content-center justify-content-lg-start">
+            <div class="collapse navbar-collapse d-flex flex-wrap justify-content-center">
                 <a href="index.php" class="d-flex align-items-center mb-2 mb-lg-0 text-dark text-decoration-none">
                   <i class="fab fa-accusoft text-secondary fa-2x pr-2"></i>
                 </a>

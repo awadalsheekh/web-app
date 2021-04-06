@@ -1,67 +1,66 @@
 <!----- Start of Sidebar -------->
 <div class="row g-5">
                 <div class="col-md-4 col-lg-3 bg-light">
-                        <a href="/" class="d-flex align-items-center mb-3 mb-md-0 me-md-auto link-secondary text-decoration-none">
-                            <span class="fs-4 pt-2 ml-4">COMPTE</span>
-                        </a>
-                <hr class="my-3 mt-2">
+                        <div class="mt-2">
+                            <span class="fs-4 pt-2 ml-4 text-muted">COMPTE</span>
+                        </div>
+
+            <hr class="my-3 mt-2">
+            
                 <ul class="nav nav-pills flex-column mb-auto li-additional-style"> <!--"li-additional-style" Additional style class -->
                     <li class="nav-item">
-                        <a href="#" class="nav-link link-dark">
-                            <svg class="bi me-2" width="16" height="16"><use xlink:href="#home"/></svg>
+                        <a href="#" class="nav-link link-dark ml-4">
                             <i class="fas fa-users mr-2"></i>Fiche Famille
                         </a>
                     </li>
                     <li>
-                        <a href="#" class="nav-link link-dark">
-                            <svg class="bi me-2" width="16" height="16"><use xlink:href="#speedometer2"/></svg>
+                        <a href="#" class="nav-link link-dark ml-4">
                             <i class="fas fa-folder-open mr-2"></i>Demande
                         </a>
                     </li>
                     <li>
-                        <a href="#" class="nav-link link-dark">
-                            <svg class="bi me-2" width="16" height="16"><use xlink:href="#table"/></svg>
+                        <a href="#" class="nav-link link-dark ml-4">
                             <i class="fas fa-user-plus mr-2"></i>Nouveau enfant
                         </a>
                     </li>
-                    <a href="/" class="d-flex align-items-center mb-3 mb-md-0 me-md-auto link-secondary text-decoration-none mt-4">
-                            <span class="fs-4 pt-2 ml-4">LES INSCRIPTIONS</span>
-                        </a>
-                <hr class="my-3 mt-2">
-                <ul class="nav nav-pills flex-column mb-auto">
+                </ul>
+                    <div class="mt-4">
+                        <span class="fs-4 pt-2 ml-4 text-muted">LES INSCRIPTIONS</span>
+                    </div>
+
+            <hr class="my-3 mt-2">
+
+                <ul class="nav nav-pills flex-column mb-auto li-additional-style"> <!--"li-additional-style" Additional style class -->
                     <li class="nav-item">
-                        <a href="#" class="nav-link link-dark">
-                            <svg class="bi me-2" width="16" height="16"><use xlink:href="#home"/></svg>
+                        <a href="#" class="nav-link link-dark ml-4">
                             <i class="fas fa-chalkboard-teacher mr-2"></i>Inscription scolaire
                         </a>
                     </li>
                     <li>
-                        <a href="#" class="nav-link link-dark">
-                            <svg class="bi me-2" width="16" height="16"><use xlink:href="#speedometer2"/></svg>
+                        <a href="#" class="nav-link link-dark ml-4">
                             <i class="fas fa-utensils mr-2"></i>Restaurant scolaire
                         </a>
                     </li>
+                </ul>
+                    <div class="mt-4">
+                        <span class="fs-4 pt-2 ml-4 text-muted">FINANCES</span>
+                    </div>
 
-                    <a href="/" class="d-flex align-items-center mb-3 mb-md-0 me-md-auto link-secondary text-decoration-none mt-4">
-                            <span class="fs-4 pt-2 ml-4">FINANCES</span>
-                        </a>
-                <hr class="my-3 mt-2">
-                <ul class="nav nav-pills flex-column mb-auto">
+            <hr class="my-3 mt-2">
+
+                <ul class="nav nav-pills flex-column mb-auto li-additional-style"> <!--"li-additional-style" Additional style class -->
                     <li class="nav-item">
-                        <a href="#" class="nav-link link-dark">
-                            <svg class="bi me-2" width="16" height="16"><use xlink:href="#home"/></svg>
+                        <a href="#" class="nav-link link-dark ml-4">
                             <i class="fas fa-file-invoice mr-2"></i>Mes factures
                         </a>
                     </li>
                     <li>
-                        <a href="#" class="nav-link link-dark">
-                            <svg class="bi me-2" width="16" height="16"><use xlink:href="#speedometer2"/></svg>
+                        <a href="#" class="nav-link link-dark ml-4">
                             <i class="fas fa-download mr-2"></i>Paiements
                         </a>
                     </li>
                     <li>
-                        <a href="#" class="nav-link link-dark">
-                            <svg class="bi me-2" width="16" height="16"><use xlink:href="#table"/></svg>
+                        <a href="#" class="nav-link link-dark ml-4">
                             <i class="fas fa-credit-card mr-2"></i>Payer mes factures
                         </a>
                     </li>

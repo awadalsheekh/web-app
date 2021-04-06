@@ -1,26 +1,20 @@
 
 
 
-    <footer class="footer-title border-top bg-dark">
+    <footer class="footer-title border-top py-3 bg-dark">
         <div class="container-fluid bg-dark">
             <div class="row justify-content-between">
-                <div class="col-md-2"></div>
-                <div class="col-md-4">
+                <div class="col-md-4 col-sm-4 d-flex justify-content-center">
                     <h2 class="footer-logo">Awad<span>Dev</span></h2>
-                    <span class="">&copy; 2021</span>
                 </div>
-                <div class="col"></div>
-                <div class="col-md-3 col-lg-3 align-self-center">
+                <div class="col-md-3 col-sm-4 align-self-center d-flex justify-content-center">
                     <span class=""><a href="#"><i class="fab fa-facebook-square text-light fa-3x pr-2"></i></a></span>
                     <span class=""><a href="#"><i class="fab fa-youtube-square text-light fa-3x pr-2"></i></a></span>
                     <span class=""><a href="#"><i class="fab fa-twitter-square text-light fa-3x pr-2"></i></a></span>
                 </div>
-
             </div>
         </div>
-
     </footer>
-
 
 
     <script src="js/bootstrap.min.js"></script>
