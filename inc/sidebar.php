@@ -5,7 +5,7 @@
                             <span class="fs-4 pt-2 ml-4">COMPTE</span>
                         </a>
                 <hr class="my-3 mt-2">
-                <ul class="nav nav-pills flex-column mb-auto lihaver">
+                <ul class="nav nav-pills flex-column mb-auto li-additional-style"> <!--"li-additional-style" Additional style class -->
                     <li class="nav-item">
                         <a href="#" class="nav-link link-dark">
                             <svg class="bi me-2" width="16" height="16"><use xlink:href="#home"/></svg>
@@ -67,5 +67,5 @@
                     </li>
                 </ul>
                 <hr>
-                  </div>  
+                  </div>
 <!----- End of sidebar -------->

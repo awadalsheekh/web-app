@@ -3,11 +3,21 @@
 
 <?php include "inc/header.php" ?>
 
+<!----- Breadcrumb of Header -------->
+    <div class="container pt-3">
+    <nav aria-label="breadcrumb">
+        <ol class="breadcrumb p-2 bg-dark">
+            <li class="breadcrumb-item active"><a class="text-decoration-none" href="index.php">Accueil</a></li>
+            <li class="breadcrumb-item active text-light" aria-current="page">Fil d'actualités</li>
+        </ol>
+    </nav>
+    </div>
+<!----- End of Header -------->
+
 <!----- Start of our main container -------->
     <div class="container">
         <div class="main">
             <div class="py-1 text-center mt-3 mb-3">
-                <!-- <img class="d-block mx-auto mb-4" src="img/bootstrap-logo.png" alt="" width="72" height="57"> -->
                 <h2>COVID-19</h2>
                 <p class="lead">" Protéger tous les élèves et les adultes et assurer l'éducation pour tous "</p>
                 <P>La  situation  sanitaire rend  nécessaire une vigilance  constante face  à  un  risque  épidémique  élevé, comme en témoignent le niveau de circulation important du virus sur le territoire ainsi que l’apparition de nouveaux variants.</P>

@@ -1,19 +1,23 @@
+body {
+  margin: 0;
+  padding: 0;
 
+}
 
+/* ----- The entire scrollbar -----*/
 ::-webkit-scrollbar {
     display: none;
 }
 
-* {
-    box-sizing: border-box;
-}
+
+/* ----- Header Additional style -----*/
 .header-title {
     margin-top: 90px;
     margin-bottom: 5px;
 
 }
 
-.title-italic {
+.title-italic-font {
     font-size: 20px;
     color: grey;
 }
@@ -26,27 +30,29 @@
 }
 
 
+/*----- Additional style for "li, a:hover" -----*/
 
-.lihaver li{
+.li-additional-style li{
     list-style: none;
 }
 
 
-.lihaver li:hover{
+.li-additional-style li:hover{
     background: #DCDFE3 !important;
 }
 
-.lihaver li a:hover{
+.li-additional-style li a:hover{
     text-decoration: none;
     color: #2C70D9;
 }
 
+
+/*----- Footer Additional style -----*/
 .footer-title {
     color: #fff;
     font-size: 1rem;
     margin-top: 30px;
     margin-bottom: 0;
-
 }
 
 .footer-logo {
@@ -56,5 +62,3 @@
 .footer-logo span {
     color: lightseagreen;
 }
-
-

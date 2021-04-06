@@ -16,12 +16,13 @@
     <header class="p-3 mb-5 border-bottom fixed-top bg-dark">
         <div class="container-fluid">
             <div class="d-flex flex-wrap align-items-center justify-content-center justify-content-lg-start">
-                <a href="/" class="d-flex align-items-center mb-2 mb-lg-0 text-dark text-decoration-none">
+                <a href="index.php" class="d-flex align-items-center mb-2 mb-lg-0 text-dark text-decoration-none">
+                  <i class="fab fa-accusoft text-secondary fa-2x pr-2"></i>
                 </a>
                 <ul class="nav col-12 col-lg-auto me-lg-auto mb-2 justify-content-center mb-md-0">
                     <li><a href="index.php" class="nav-link px-2 link-light">Accueil</a></li>
                     <li><a href="blog.php" class="nav-link px-2 link-light">Blog</a></li>
-                    <li><a href="#" class="nav-link px-2 link-light">À propos</a></li>
+                    <li><a href="a-propos.php" class="nav-link px-2 link-light">À propos</a></li>
                 </ul>
                 <div>
                     <a href="#"><i class="fas fa-comments fa-2x pl-2 text-secondary"></i></a>
@@ -38,30 +39,19 @@
 
 <!----- Title of Header -------->
     <header-title class="">
-        <div class="container header-title">
+        <div class="container header-title"> <!--"Header-title" Additional style -->
             <div class="row">
                 <div class="col">
                     <div class="logo bg-light p-1">
                         <h1><i class="fab fa-accusoft text-primary "></i>
-                            <span class="logo-title text-primary">Education</span>
-                            <span class="fst-italic title-italic">Portail scolaire</span>
+                            <span class="logo-title text-primary">Education</span> <!--"log-title" Additional style -->
+                            <span class="fst-italic title-italic-font">Portail scolaire</span> <!--"title-italic-font" Additional style -->
                         </h1>
                     </div>
                 </div>
             </div>
         </div>
     </header-title>
-
-<!----- Breadcrumb of Header -------->
-    <div class="container">
-    <nav aria-label="breadcrumb">
-        <ol class="breadcrumb p-2 bg-dark">
-            <li class="breadcrumb-item active"><a class="text-decoration-none" href="index.php">Accueil</a></li>
-            <li class="breadcrumb-item active text-light" aria-current="page">Fil d'actualités</li>
-        </ol>
-    </nav>
-    </div>
-<!----- End of Header -------->
 
 <!----- Start of information cards -------->
 <div class="container">
