@@ -2,7 +2,7 @@
 <div class="row g-5">
                 <div class="col-md-4 col-lg-3 bg-light">
                         <div class="mt-2">
-                            <span class="fs-4 pt-2 ml-4 text-muted">COMPTE</span>
+                            <span class="fs-4 pt-2 ml-4 text-primary">COMPTE</span>
                         </div>
 
             <hr class="my-3 mt-2">
@@ -25,7 +25,7 @@
                     </li>
                 </ul>
                     <div class="mt-4">
-                        <span class="fs-4 pt-2 ml-4 text-muted">LES INSCRIPTIONS</span>
+                        <span class="fs-4 pt-2 ml-4 text-primary">LES INSCRIPTIONS</span>
                     </div>
 
             <hr class="my-3 mt-2">
@@ -43,7 +43,7 @@
                     </li>
                 </ul>
                     <div class="mt-4">
-                        <span class="fs-4 pt-2 ml-4 text-muted">FINANCES</span>
+                        <span class="fs-4 pt-2 ml-4 text-primary">FINANCES</span>
                     </div>
 
             <hr class="my-3 mt-2">

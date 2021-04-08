@@ -7,7 +7,7 @@
       <nav aria-label="breadcrumb">
           <ol class="breadcrumb p-2 bg-dark">
               <li class="breadcrumb-item active"><a class="text-decoration-none" href="index.php">Accueil</a></li>
-              <li class="breadcrumb-item active text-light" aria-current="page">À propos</li>
+              <li class="breadcrumb-item active text-muted" aria-current="page">À propos</li>
           </ol>
       </nav>
     </div>

@@ -2,7 +2,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Portail scolaire</title>
+    <title>Portail Famille</title>
     <link rel="stylesheet" href="css/main-style.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css" integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w==" crossorigin="anonymous" />
@@ -45,8 +45,8 @@
                 <div class="col">
                     <div class="logo bg-light p-1">
                         <h1><i class="fab fa-accusoft text-primary "></i>
-                            <span class="logo-title text-primary">Education</span> <!--"log-title" Additional style -->
-                            <span class="fst-italic title-italic-font">Portail scolaire</span> <!--"title-italic-font" Additional style -->
+                            <span class="logo-title text-primary">Portail Famille</span> <!--"log-title" Additional style -->
+                            <span class="fst-italic title-italic-font">Gérer toutes vos démarches simple et rapide </span> <!--"title-italic-font" Additional style -->
                         </h1>
                     </div>
                 </div>

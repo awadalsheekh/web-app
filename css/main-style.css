@@ -1,8 +1,8 @@
 body {
-  margin: 0;
-  padding: 0;
-
-}
+    margin: 0;
+    padding: 0;
+  
+  }
 
 /* ----- The entire scrollbar -----*/
 ::-webkit-scrollbar {
@@ -61,4 +61,9 @@ body {
 
 .footer-logo span {
     color: lightseagreen;
+}
+
+span .copyright {
+    font-size: 12px !important;
+    color: #fff;
 }
