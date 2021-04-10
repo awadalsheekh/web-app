@@ -14,33 +14,31 @@
 
 <!----- Start of Header -------->
 
-   <header class="p-3 mb-5 border-bottom fixed-top bg-dark">
-        <div class="container-fluid">
-            <div class="collapse navbar-collapse d-flex flex-wrap justify-content-center">
-                <a href="index.php" class="d-flex align-items-center mb-2 mb-lg-0 text-dark text-decoration-none">
-                  <i class="fab fa-accusoft text-secondary fa-2x pr-2"></i>
-                </a>
-                <ul class="nav col-12 col-lg-auto me-lg-auto mb-2 justify-content-center mb-md-0">
-                    <li><a href="index.php" class="nav-link px-2 link-light">Accueil</a></li>
-                    <li><a href="blog.php" class="nav-link px-2 link-light">Blog</a></li>
-                    <li><a href="a-propos.php" class="nav-link px-2 link-light">À propos</a></li>
-                </ul>
-                <div>
-                    <a href="#"><i class="fas fa-comments fa-2x pl-2 text-secondary"></i></a>
-                </div>
-                <div>
-                    <a href="#"><i class="fas fa-cog fa-2x pl-2 text-secondary"></i></a>
-                </div>
-                <div>
-                    <a href="#"><i class="fas fa-power-off fa-2x pl-2 text-secondary"></i></a>
-                </div>
-            </div>
+<nav class="navbar navbar-expand-md navbar-dark bg-dark">
+    <a href="#" class="navbar-brand"></a>
+    <button class="navbar-toggler" data-toggle="collapse" data-target="#navbarMenu">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarMenu">
+        <ul class="nav col-md-6 col-sm-12 col-lg-auto me-lg-auto mb-2 mb-md-0 justify-content-center">
+            <li><a href="index.php" class="nav-link px-2 link-light">Accueil</a></li>
+            <li><a href="blog.php" class="nav-link px-2 link-light">Blog</a></li>
+            <li><a href="a-propos.php" class="nav-link px-2 link-light">À propos</a></li>
+        </ul>
+
+        <div class="col-md-6 col-sm-12 col-lg-auto navicon d-flex justify-content-center">
+            <span><a href="#"><i class="fas fa-comments fa-2x pl-2 text-secondary"></i></a></span>
+            <span><a href="#"><i class="fas fa-cog fa-2x pl-2 text-secondary"></i></a></span>
+            <span><a href="#"><i class="fas fa-power-off fa-2x pl-2 text-secondary"></i></a></span>
+
         </div>
-    </header>
+
+    </div>
+</nav>
 
 <!----- Title of Header -------->
     <header-title class="">
-        <div class="container header-title"> <!--"Header-title" Additional style -->
+        <div class="container header-title mt-2"> <!--"Header-title" Additional style -->
             <div class="row">
                 <div class="col">
                     <div class="logo bg-light p-1">

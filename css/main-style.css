@@ -67,3 +67,29 @@ span .copyright {
     font-size: 12px !important;
     color: #fff;
 }
+
+
+
+@media(max-width: 800px) {
+    .navicon{
+    justify-content: center;
+    display: flex;
+    }
+
+    .title-italic-font{
+        font-size: 0.8rem;
+    }
+
+
+}
+
+@media(max-width: 990px) {
+    .logo-title{
+        font-size: 20px;
+    }
+
+    .title-italic-font{
+        font-size: 0.8rem;
+    }
+}
+
